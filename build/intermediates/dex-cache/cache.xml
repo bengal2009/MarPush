@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lin\AndroidStudioProjects\PushDemo\app\libs\pushservice-4.4.0.71.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="C:\Users\Lin\AndroidStudioProjects\PushDemo\app\build\intermediates\pre-dexed\debug\pushservice-4.4.0.71-80db3620ba3396f4fd5650904d474a7860928675.jar" />
+    </item>
+
+</items>
